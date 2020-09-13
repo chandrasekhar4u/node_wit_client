@@ -24,7 +24,7 @@
     "isomorphic-fetch": "^2.2.1",
 	"body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "node-fetch": "^1.5.3",
+    "node-fetch": "^2.6.1",
     "node-uuid": "^1.4.7",
 	"ws": "^1.1.1",
 	"websocket": "^1.0.23",
